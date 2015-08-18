@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [OWP_Optus_Regression]">
+  <listeners>
+    <listener class-name="atu.testng.reports.listeners.ATUReportsListener"/>
+    <listener class-name="atu.testng.reports.listeners.ConfigurationListener"/>
+    <listener class-name="atu.testng.reports.listeners.MethodListener"/>
+  </listeners>
+  <test name="TC001_DesktopReports_PMO_Page(failed)">
+    <classes>
+      <class name="executionEngine.TC001_DriverScript">
+        <methods>
+          <include name="beforemethod"/>
+          <include name="Optus_DesktopReports_PMO"/>
+          <include name="AfterMethod1"/>
+        </methods>
+      </class> <!-- executionEngine.TC001_DriverScript -->
+      <class name="executionEngine.TC004_DriverScript">
+        <methods>
+          <include name="AfterMethod1"/>
+          <include name="beforemethod"/>
+        </methods>
+      </class> <!-- executionEngine.TC004_DriverScript -->
+      <class name="executionEngine.TC002_DriverScript">
+        <methods>
+          <include name="AfterMethod1"/>
+          <include name="beforemethod"/>
+        </methods>
+      </class> <!-- executionEngine.TC002_DriverScript -->
+      <class name="executionEngine.TC003_DriverScript">
+        <methods>
+          <include name="beforemethod"/>
+          <include name="AfterMethod1"/>
+        </methods>
+      </class> <!-- executionEngine.TC003_DriverScript -->
+    </classes>
+  </test> <!-- TC001_DesktopReports_PMO_Page(failed) -->
+  <test name="TC002_DesktopReports_Finance_Page(failed)">
+    <classes>
+      <class name="executionEngine.TC001_DriverScript">
+        <methods>
+          <include name="beforemethod"/>
+          <include name="AfterMethod1"/>
+        </methods>
+      </class> <!-- executionEngine.TC001_DriverScript -->
+      <class name="executionEngine.TC004_DriverScript">
+        <methods>
+          <include name="AfterMethod1"/>
+          <include name="beforemethod"/>
+        </methods>
+      </class> <!-- executionEngine.TC004_DriverScript -->
+      <class name="executionEngine.TC002_DriverScript">
+        <methods>
+          <include name="AfterMethod1"/>
+          <include name="beforemethod"/>
+          <include name="Optus_DesktopReports_Finance"/>
+        </methods>
+      </class> <!-- executionEngine.TC002_DriverScript -->
+      <class name="executionEngine.TC003_DriverScript">
+        <methods>
+          <include name="beforemethod"/>
+          <include name="AfterMethod1"/>
+        </methods>
+      </class> <!-- executionEngine.TC003_DriverScript -->
+    </classes>
+  </test> <!-- TC002_DesktopReports_Finance_Page(failed) -->
+  <test name="TC004_DesktopReports_Delivery_Page(failed)">
+    <classes>
+      <class name="executionEngine.TC001_DriverScript">
+        <methods>
+          <include name="beforemethod"/>
+          <include name="AfterMethod1"/>
+        </methods>
+      </class> <!-- executionEngine.TC001_DriverScript -->
+      <class name="executionEngine.TC004_DriverScript">
+        <methods>
+          <include name="AfterMethod1"/>
+          <include name="Optus_DesktopReports_Delivery"/>
+          <include name="beforemethod"/>
+        </methods>
+      </class> <!-- executionEngine.TC004_DriverScript -->
+      <class name="executionEngine.TC002_DriverScript">
+        <methods>
+          <include name="AfterMethod1"/>
+          <include name="beforemethod"/>
+        </methods>
+      </class> <!-- executionEngine.TC002_DriverScript -->
+      <class name="executionEngine.TC003_DriverScript">
+        <methods>
+          <include name="beforemethod"/>
+          <include name="AfterMethod1"/>
+        </methods>
+      </class> <!-- executionEngine.TC003_DriverScript -->
+    </classes>
+  </test> <!-- TC004_DesktopReports_Delivery_Page(failed) -->
+</suite> <!-- Failed suite [OWP_Optus_Regression] -->

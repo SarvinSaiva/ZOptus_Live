@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ZOPTUS_LIVE_SUITE]">
+  <test name="TC002_Desktop_Home_Page(failed)">
+    <classes>
+      <class name="Zoptusmodule.TC002_Desktop_Home_Page">
+        <methods>
+          <include name="bft"/>
+          <include name="OnFailure"/>
+          <include name="Aft"/>
+          <include name="Home_Page"/>
+        </methods>
+      </class> <!-- Zoptusmodule.TC002_Desktop_Home_Page -->
+      <class name="Zoptusmodule.TC001_Desktop_SignIn_Page">
+        <methods>
+          <include name="bft"/>
+          <include name="OnFailure"/>
+        </methods>
+      </class> <!-- Zoptusmodule.TC001_Desktop_SignIn_Page -->
+    </classes>
+  </test> <!-- TC002_Desktop_Home_Page(failed) -->
+</suite> <!-- Failed suite [ZOPTUS_LIVE_SUITE] -->

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ZOPTUS_LIVE_SUITE" preserve-order="false">
+	<test name="TC001_Desktop_SignIn_Page">
+		<classes>
+			<class name="Zoptusmodule.TC001_Desktop_SignIn_Page" />
+		</classes>
+	</test>
+	<test name="TC002_Desktop_Home_Page">
+		<classes>
+			<class name="Zoptusmodule.TC002_Desktop_Home_Page" />
+		</classes>
+	</test>
+<!-- 	<test name="TC003_Desktop_WorkOrder_Page">
+		<classes>
+			<class name="Zoptusmodule.TC003_Desktop_WorkOrder_Page" />
+		</classes>
+	</test> 
+ 	<test name="TC004_Desktop_Sites_Page">
+		<classes>
+			<class name="Zoptusmodule.TC004_Desktop_Sites_Page" />
+		</classes>
+	</test>
+	<test name="TC005_Desktop_Commercial_Page">
+		<classes>
+			<class name="Zoptusmodule.TC005_Desktop_Commercial_Page" />
+		</classes>
+	</test>
+	<test name="TC006_Desktop_ProjectManagement_Page">
+		<classes>
+			<class name="Zoptusmodule.TC006_Desktop_ProjectManagement_Page" />
+		</classes>
+	</test>
+	<test name="TC007_Desktop_Maintanence_Page">
+		<classes>
+			<class name="Zoptusmodule.TC007_Desktop_Maintanence_Page" />
+		</classes>
+	</test>
+	<test name="TC008_Desktop_Reports_Page">
+		<classes>
+			<class name="Zoptusmodule.TC008_Desktop_Reports_Page" />
+		</classes>
+	</test>
+	<test name="TC009_Desktop_UserProfile_Page">
+		<classes>
+			<class name="Zoptusmodule.TC009_Desktop_UserProfile_Page" />
+		</classes>
+	</test>
+	<test name="TC010_Mobility_SignIn_Page">
+		<classes>
+			<class name="Zoptusmodule.TC010_Mobility_SignIn_Page" />
+		</classes>
+	</test>
+	<test name="TC011_Mobility_Dashboard_Page">
+		<classes>
+			<class name="Zoptusmodule.TC011_Mobility_Dashboard_Page" />
+		</classes>
+	</test>
+	<test name="TC012_Mobility_WorkDetails_Page">
+		<classes>
+			<class name="Zoptusmodule.TC012_Mobility_WorkDetails_Page" />
+		</classes>
+	</test>
+	<test name="TC013_Mobility_Documents_Page">
+		<classes>
+			<class name="Zoptusmodule.TC013_Mobility_Documents_Page" />
+		</classes>
+	</test>
+	<test name="TC014_Mobility_IssueRegister_Page">
+		<classes>
+			<class name="Zoptusmodule.TC014_Mobility_IssueRegister_Page" />
+		</classes>
+	</test>
+	<test name="TC015_Mobility_WorkMaterials_Page">
+		<classes>
+			<class name="Zoptusmodule.TC015_Mobility_WorkMaterials_Page" />
+		</classes>
+	</test>
+	<test name="TC016_Mobility_WorkMilestones_Page">
+		<classes>
+			<class name="Zoptusmodule.TC016_Mobility_WorkMilestones_Page" />
+		</classes>
+	</test>
+ --></suite> 
