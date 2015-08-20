@@ -35,7 +35,7 @@ public class ExcelUtils {
 
 	    ExcelWBook = new XSSFWorkbook(ExcelFile);
 
-	    ExcelWSheet = ExcelWBook.getSheet("Sheet1");
+	    ExcelWSheet = ExcelWBook.getSheet(SheetName);
 
 	} catch (Exception e) {
 

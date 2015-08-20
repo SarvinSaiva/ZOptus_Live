@@ -20,7 +20,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-import MailUtility.JavaMail;
+import MailUtility.JavaMail_Old;
 import Utility.Constant;
 import Utility.ExcelUtils;
 import appmodule.Desktop_Home_Action;
@@ -105,9 +105,9 @@ public class TC002_Desktop_Home_Page {
 					+ "\\Error_" + systime + ".jpg"));
 	    }
 	} catch (Exception e) {
-	    e.getMessage();
-	    JavaMail JM = new JavaMail();
-	    JM.TC002_Desktop_Home_Page_Exception(e);
+	    e.getLocalizedMessage();
+	    JavaMail_Old jm = new JavaMail_Old();
+	    jm.TC002_Desktop_Home_Page_Exception(e);
 
 	}
 	return null;

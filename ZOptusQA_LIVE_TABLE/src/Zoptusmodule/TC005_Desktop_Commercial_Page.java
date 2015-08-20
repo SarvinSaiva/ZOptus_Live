@@ -20,7 +20,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-import MailUtility.JavaMail;
+import MailUtility.JavaMail_Old;
 import Utility.Constant;
 import Utility.ExcelUtils;
 import appmodule.Desktop_Commercial_Action;
@@ -123,8 +123,8 @@ public class TC005_Desktop_Commercial_Page {
 	    }
 	} catch (Exception e) {
 	    e.getMessage();
-	    JavaMail JM = new JavaMail();
-	    JM.TC005_Desktop_Commercial_Page_Exception(e);
+	    JavaMail_Old jm = new JavaMail_Old();
+	    jm.TC005_Desktop_Commercial_Page_Exception(e);
 
 	}
 	return null;

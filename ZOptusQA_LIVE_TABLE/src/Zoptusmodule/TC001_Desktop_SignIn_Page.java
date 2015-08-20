@@ -20,7 +20,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-import MailUtility.JavaMail;
+import MailUtility.JavaMail_Old;
 import Utility.Constant;
 import Utility.ExcelUtils;
 import appmodule.Desktop_Home_Action;
@@ -78,7 +78,7 @@ public class TC001_Desktop_SignIn_Page {
     }
 
     @AfterMethod(alwaysRun = true)
-    public ITestResult OnFailure(ITestResult testResult) throws IOException {
+    public void OnFailure(ITestResult testResult) throws IOException {
 	try {
 	    Calendar cal = Calendar.getInstance();
 	    Date time = cal.getTime();
@@ -102,12 +102,10 @@ public class TC001_Desktop_SignIn_Page {
 	    }
 
 	} catch (Exception e) {
-	    e.getMessage();
-	    JavaMail JM = new JavaMail();
-	    JM.TC001_Desktop_SignIn_Page_Exception(e);
-
+	    e.fillInStackTrace();
+	    JavaMail_Old jm = new JavaMail_Old();
+	    jm.TC001_Desktop_SignIn_Page_Exception(e);
 	}
-	return null;
 
     }
 

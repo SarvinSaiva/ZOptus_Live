@@ -20,7 +20,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-import MailUtility.JavaMail;
+import MailUtility.JavaMail_Old;
 import Utility.Constant;
 import Utility.ExcelUtils;
 import appmodule.Mobility_SignIn_Action;
@@ -101,8 +101,8 @@ public class TC010_Mobility_SignIn_Page {
 	    }
 	} catch (Exception e) {
 	    e.getMessage();
-	    JavaMail JM = new JavaMail();
-	    JM.TC010_Mobility_SignIn_Page_Exception(e);
+	    JavaMail_Old jm = new JavaMail_Old();
+	    jm.TC010_Mobility_SignIn_Page_Exception(e);
 
 	}
 	return null;

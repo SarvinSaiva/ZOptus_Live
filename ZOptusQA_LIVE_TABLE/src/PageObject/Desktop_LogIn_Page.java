@@ -11,13 +11,13 @@ public class Desktop_LogIn_Page {
 
     public static WebElement txtbx_UserName(WebDriver driver) {
 
-	element = driver.findElement(By.id("txtUserName"));
+	element = driver.findElement(By.id("txtUserNametest"));
 	return element;
     }
 
     public static WebElement txtbx_Password(WebDriver driver) {
 
-	element = driver.findElement(By.id("txtPassword"));
+	element = driver.findElement(By.id("txtPasswordtest"));
 	return element;
     }
 

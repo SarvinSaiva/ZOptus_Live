@@ -21,7 +21,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-import MailUtility.JavaMail;
+import MailUtility.JavaMail_Old;
 import Utility.Constant;
 import Utility.ExcelUtils;
 import appmodule.Desktop_Report_Action;
@@ -131,8 +131,8 @@ public class TC008_Desktop_Reports_Page {
 	    }
 	} catch (Exception e) {
 	    e.getMessage();
-	    JavaMail JM = new JavaMail();
-	    JM.TC008_Desktop_Reports_Page_Exception(e);
+	    JavaMail_Old jm = new JavaMail_Old();
+	    jm.TC008_Desktop_Reports_Page_Exception(e);
 
 	}
 	return null;

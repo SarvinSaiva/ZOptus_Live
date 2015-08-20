@@ -2,7 +2,7 @@ package Utility;
 
 public class Constant {
 
-    public static final String URL = "https://ss123.vspl.net/ZOptus";
+    public static final String URL = "https://ss.vspl.net/ZOptus";
 
     public static final String MURL = "https://ss.vspl.net/Z";
 
