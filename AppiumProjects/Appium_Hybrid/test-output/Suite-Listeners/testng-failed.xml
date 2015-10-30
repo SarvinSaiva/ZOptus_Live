@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite-Listeners]" parallel="none">
+  <listeners>
+    <listener class-name="utility.Listener"/>
+  </listeners>
+  <test name="Batch-Listeners(failed)" parallel="none">
+    <classes>
+      <class name="executionEngine.DriverScript">
+        <methods>
+          <include name="execute_TestCase"/>
+          <include name="Optus"/>
+          <include name="execute_Actions"/>
+        </methods>
+      </class> <!-- executionEngine.DriverScript -->
+    </classes>
+  </test> <!-- Batch-Listeners(failed) -->
+</suite> <!-- Failed suite [Suite-Listeners] -->

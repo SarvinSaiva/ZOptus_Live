@@ -1,0 +1,8 @@
+############################################### App Manager ###############################################
+AppMgr_Search_id=com.appsmanager:id/add 
+AppMgr_UnSear_class=android.widget.ImageView
+AppMgr_Select_id=com.appsmanager:id/cb_select_app
+AppMgr_Bckup_id=com.appsmanager:id/txt_backup
+AppMgr_CnfrmYes_id=android:id/button1   
+
+

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[STEP1]]>
+    </line>
+    <line>
+      <![CDATA[STEP2]]>
+    </line>
+    <line>
+      <![CDATA[STEP3]]>
+    </line>
+    <line>
+      <![CDATA[STEP4]]>
+    </line>
+    <line>
+      <![CDATA[STEP5]]>
+    </line>
+    <line>
+      <![CDATA[STEP6]]>
+    </line>
+    <line>
+      <![CDATA[STEP7]]>
+    </line>
+  </reporter-output>
+  <suite name="APP_MANAGER_SUITE" duration-ms="113644" started-at="2015-10-14T12:12:01Z" finished-at="2015-10-14T12:13:55Z">
+    <groups>
+    </groups>
+    <test name="TC001_APP_MANAGER" duration-ms="113644" started-at="2015-10-14T12:12:01Z" finished-at="2015-10-14T12:13:55Z">
+      <class name="executionEngine.Appium_DriverScript">
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:executionEngine.Appium_DriverScript@36d64342]" name="beforemethod" is-config="true" duration-ms="9" started-at="2015-10-14T17:42:01Z" finished-at="2015-10-14T17:42:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="Appium_AppManager()[pri:0, instance:executionEngine.Appium_DriverScript@36d64342]" name="Appium_AppManager" duration-ms="113619" started-at="2015-10-14T17:42:01Z" finished-at="2015-10-14T17:43:55Z">
+          <reporter-output>
+            <line>
+              <![CDATA[STEP1]]>
+            </line>
+            <line>
+              <![CDATA[STEP2]]>
+            </line>
+            <line>
+              <![CDATA[STEP3]]>
+            </line>
+            <line>
+              <![CDATA[STEP4]]>
+            </line>
+            <line>
+              <![CDATA[STEP5]]>
+            </line>
+            <line>
+              <![CDATA[STEP6]]>
+            </line>
+            <line>
+              <![CDATA[STEP7]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Appium_AppManager -->
+        <test-method status="PASS" signature="AfterMethod1()[pri:0, instance:executionEngine.Appium_DriverScript@36d64342]" name="AfterMethod1" is-config="true" duration-ms="0" started-at="2015-10-14T17:43:55Z" finished-at="2015-10-14T17:43:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod1 -->
+      </class> <!-- executionEngine.Appium_DriverScript -->
+    </test> <!-- TC001_APP_MANAGER -->
+  </suite> <!-- APP_MANAGER_SUITE -->
+</testng-results>

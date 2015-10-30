@@ -1,0 +1,149 @@
+<html>
+<head>
+<title>TestNG:  Default test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Default test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>1/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Mon Feb 02 15:13:44 IST 2015</td>
+</tr>
+<tr><td>Total time:</td><td>4 seconds (4430 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='executionEngine.DriverScript.Optus()'><b>Optus</b><br>Test class: executionEngine.DriverScript<br/>
+<a href="#Output-167405060" onClick='toggleBox("Output-167405060", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-167405060" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-167405060">
+|| 	 Test Steps : 	 	 	 	||openBrowser || 	 Test Object : 	 	 	 	 	|| || 	 Test Data :Chrome<br/>
+|| 	 Test Steps : 	 	 	 	||Maximize || 	 Test Object : 	 	 	 	 	|| || 	 Test Data :<br/>
+|| 	 Test Steps : 	 	 	 	||navigate || 	 Test Object : 	 	 	 	 	|| || 	 Test Data :<br/>
+|| 	 Test Steps : 	 	 	 	||input || 	 Test Object : 	 	 	 	 	|| txt_username|| 	 Test Data :gulsar<br/>
+|| 	 Test Steps : 	 	 	 	||input || 	 Test Object : 	 	 	 	 	|| txt_password|| 	 Test Data :password<br/>
+|| 	 Test Steps : 	 	 	 	||click || 	 Test Object : 	 	 	 	 	|| btn_login|| 	 Test Data :<br/>
+|| 	 Test Steps : 	 	 	 	||waitFormin || 	 Test Object : 	 	 	 	 	|| || 	 Test Data :<br/>
+|| 	 Test Steps : 	 	 	 	||click || 	 Test Object : 	 	 	 	 	|| btn_AddWorkOrder|| 	 Test Data :<br/>
+|| 	 Test Steps : 	 	 	 	||waitFormin || 	 Test Object : 	 	 	 	 	|| || 	 Test Data :<br/>
+|| 	 Test Steps : 	 	 	 	||SelectText || 	 Test Object : 	 	 	 	 	|| Dropdown_Program|| 	 Test Data :Misc<br/>
+|| 	 Test Steps : 	 	 	 	||click || 	 Test Object : 	 	 	 	 	|| btn_AddSiteid|| 	 Test Data :<br/>
+|| 	 Test Steps : 	 	 	 	||waitFor || 	 Test Object : 	 	 	 	 	|| || 	 Test Data :<br/>
+|| 	 Test Steps : 	 	 	 	||NewWindowHandle || 	 Test Object : 	 	 	 	 	|| || 	 Test Data :<br/>
+|| 	 Test Steps : 	 	 	 	||input || 	 Test Object : 	 	 	 	 	|| txt_SiteID|| 	 Test Data :TEST2053<br/>
+|| 	 Test Steps : 	 	 	 	||input || 	 Test Object : 	 	 	 	 	|| txt_Site_Code|| 	 Test Data :AB53<br/>
+|| 	 Test Steps : 	 	 	 	||input || 	 Test Object : 	 	 	 	 	|| txt_Site_Name|| 	 Test Data :TestName2053<br/>
+|| 	 Test Steps : 	 	 	 	||input || 	 Test Object : 	 	 	 	 	|| txt_JV_Siteid|| 	 Test Data :Test Site<br/>
+|| 	 Test Steps : 	 	 	 	||input || 	 Test Object : 	 	 	 	 	|| txt_JV_Partner|| 	 Test Data :Test Partner<br/>
+|| 	 Test Steps : 	 	 	 	||input || 	 Test Object : 	 	 	 	 	|| txt_JV_PartnerSite|| 	 Test Data :Test Partner Site<br/>
+|| 	 Test Steps : 	 	 	 	||input || 	 Test Object : 	 	 	 	 	|| txt_JV_PartnerName|| 	 Test Data :Test Partner Name<br/>
+|| 	 Test Steps : 	 	 	 	||input || 	 Test Object : 	 	 	 	 	|| txt_Site_Address|| 	 Test Data :Test Address<br/>
+|| 	 Test Steps : 	 	 	 	||input || 	 Test Object : 	 	 	 	 	|| txt_Coord_Lat|| 	 Test Data :123121<br/>
+|| 	 Test Steps : 	 	 	 	||input || 	 Test Object : 	 	 	 	 	|| txt_Coord_Long|| 	 Test Data :01140<br/>
+|| 	 Test Steps : 	 	 	 	||input || 	 Test Object : 	 	 	 	 	|| txt_Struc_Type|| 	 Test Data :Test Struct Type<br/>
+|| 	 Test Steps : 	 	 	 	||input || 	 Test Object : 	 	 	 	 	|| txt_Struc_Manu|| 	 Test Data :Test Struct Manufacturer<br/>
+|| 	 Test Steps : 	 	 	 	||input || 	 Test Object : 	 	 	 	 	|| txt_Struc_Height|| 	 Test Data :Test Struct Height<br/>
+|| 	 Test Steps : 	 	 	 	||input || 	 Test Object : 	 	 	 	 	|| txt_Wind_Region|| 	 Test Data :Test Wind Region<br/>
+|| 	 Test Steps : 	 	 	 	||input || 	 Test Object : 	 	 	 	 	|| txt_Terrain|| 	 Test Data :1234<br/>
+|| 	 Test Steps : 	 	 	 	||click || 	 Test Object : 	 	 	 	 	|| btn_save_Site|| 	 Test Data :<br/>
+|| 	 Test Steps : 	 	 	 	||waitFor || 	 Test Object : 	 	 	 	 	|| || 	 Test Data :<br/>
+|| 	 Test Steps : 	 	 	 	||ClsAllExcptMain || 	 Test Object : 	 	 	 	 	|| || 	 Test Data :<br/>
+|| 	 Test Steps : 	 	 	 	||waitFormin || 	 Test Object : 	 	 	 	 	|| || 	 Test Data :<br/>
+|| 	 Test Steps : 	 	 	 	||click || 	 Test Object : 	 	 	 	 	|| txt_Siteid|| 	 Test Data :<br/>
+|| 	 Test Steps : 	 	 	 	||waitFor || 	 Test Object : 	 	 	 	 	|| || 	 Test Data :<br/>
+|| 	 Test Steps : 	 	 	 	||input || 	 Test Object : 	 	 	 	 	|| txt_Siteid|| 	 Test Data :TEST2053<br/>
+|| 	 Test Steps : 	 	 	 	||waitFor || 	 Test Object : 	 	 	 	 	|| || 	 Test Data :<br/>
+|| 	 Test Steps : 	 	 	 	||KeysDownArrow || 	 Test Object : 	 	 	 	 	|| txt_Siteid|| 	 Test Data :<br/>
+|| 	 Test Steps : 	 	 	 	||waitFor || 	 Test Object : 	 	 	 	 	|| || 	 Test Data :<br/>
+|| 	 Test Steps : 	 	 	 	||KeysEnterAction || 	 Test Object : 	 	 	 	 	|| txt_Siteid|| 	 Test Data :<br/>
+|| 	 Test Steps : 	 	 	 	||input || 	 Test Object : 	 	 	 	 	|| txt_Region|| 	 Test Data :NSW<br/>
+|| 	 Test Steps : 	 	 	 	||input || 	 Test Object : 	 	 	 	 	|| txt_WBS|| 	 Test Data :Test WBS<br/>
+|| 	 Test Steps : 	 	 	 	||SelectText || 	 Test Object : 	 	 	 	 	|| Dropdown_WorkType|| 	 Test Data :TBA<br/>
+|| 	 Test Steps : 	 	 	 	||SelectText || 	 Test Object : 	 	 	 	 	|| Dropdown_WorkStatus|| 	 Test Data :PENDING RELEASE<br/>
+|| 	 Test Steps : 	 	 	 	||click || 	 Test Object : 	 	 	 	 	|| bt_Save_WorkOrder|| 	 Test Data :<br/>
+|| 	 Test Steps : 	 	 	 	||waitFor || 	 Test Object : 	 	 	 	 	|| || 	 Test Data :<br/>
+|| 	 Test Steps : 	 	 	 	||input || 	 Test Object : 	 	 	 	 	|| txt_WAID|| 	 Test Data :2053<br/>
+|| 	 Test Steps : 	 	 	 	||input || 	 Test Object : 	 	 	 	 	|| txt_Current_Config|| 	 Test Data :Test CConfig<br/>
+|| 	 Test Steps : 	 	 	 	||input || 	 Test Object : 	 	 	 	 	|| txt_Requird_Config|| 	 Test Data :Test Rconfig<br/>
+|| 	 Test Steps : 	 	 	 	||input || 	 Test Object : 	 	 	 	 	|| txt_Radio_Number|| 	 Test Data :Test REO Number<br/>
+|| 	 Test Steps : 	 	 	 	||input || 	 Test Object : 	 	 	 	 	|| txt_ATN_Number|| 	 Test Data :Test AEO Number<br/>
+|| 	 Test Steps : 	 	 	 	||SelectText || 	 Test Object : 	 	 	 	 	|| Dropdown_Client_Visible|| 	 Test Data :Yes<br/>
+|| 	 Test Steps : 	 	 	 	||SelectText || 	 Test Object : 	 	 	 	 	|| txt_JV_Lead|| 	 Test Data :N/A<br/>
+|| 	 Test Steps : 	 	 	 	||SelectText || 	 Test Object : 	 	 	 	 	|| Dropdown_P1Owner|| 	 Test Data :VPL<br/>
+|| 	 Test Steps : 	 	 	 	||SelectText || 	 Test Object : 	 	 	 	 	|| Dropdown_P2Owner|| 	 Test Data :VPL<br/>
+|| 	 Test Steps : 	 	 	 	||SelectText || 	 Test Object : 	 	 	 	 	|| Dropdown_P3Owner|| 	 Test Data :VPL<br/>
+|| 	 Test Steps : 	 	 	 	||waitFormin || 	 Test Object : 	 	 	 	 	|| || 	 Test Data :<br/>
+|| 	 Test Steps : 	 	 	 	||click || 	 Test Object : 	 	 	 	 	|| bt_Save_WorkOrder|| 	 Test Data :<br/>
+|| 	 Test Steps : 	 	 	 	||waitFor || 	 Test Object : 	 	 	 	 	|| || 	 Test Data :<br/>
+|| 	 Test Steps : 	 	 	 	||closeBrowser || 	 Test Object : 	 	 	 	 	|| || 	 Test Data :<br/>
+</div>
+</td>
+<td></td>
+<td>3</td>
+<td>executionEngine.DriverScript@cd7bef6</td></tr>
+</table><p>
+</body>
+</html>

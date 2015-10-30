@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [APP_MANAGER_SUITE]">
+  <listeners>
+    <listener class-name="atu.testng.reports.listeners.ATUReportsListener"/>
+    <listener class-name="atu.testng.reports.listeners.ConfigurationListener"/>
+    <listener class-name="atu.testng.reports.listeners.MethodListener"/>
+  </listeners>
+  <test name="TC001_APP_MANAGER(failed)">
+    <classes>
+      <class name="executionEngine.Appium_DriverScript">
+        <methods>
+          <include name="Appium_AppManager"/>
+          <include name="beforemethod"/>
+          <include name="AfterMethod1"/>
+        </methods>
+      </class> <!-- executionEngine.Appium_DriverScript -->
+    </classes>
+  </test> <!-- TC001_APP_MANAGER(failed) -->
+</suite> <!-- Failed suite [APP_MANAGER_SUITE] -->

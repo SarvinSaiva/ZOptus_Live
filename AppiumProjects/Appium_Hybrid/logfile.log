@@ -1,0 +1,379 @@
+2015-10-14 12:38:25,607 INFO  [Log] Quit the App 
+2015-10-14 12:38:25,616 ERROR [Log] Not able to quit the App --- null 
+2015-10-14 12:45:47,025 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2015-10-14 12:45:47,034 INFO  [Log] Opening App 
+2015-10-14 12:46:25,168 INFO  [Log] Emulator Process started 
+2015-10-14 12:46:28,911 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-14 12:46:28,911 INFO  [Log] X 
+2015-10-14 12:46:28,911 INFO  [Log] X 
+2015-10-14 12:46:28,911 INFO  [Log] X 
+2015-10-14 12:46:28,911 INFO  [Log] X 
+2015-10-14 12:46:28,913 INFO  [Log] Quit the App 
+2015-10-14 15:08:40,704 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2015-10-14 15:08:40,707 INFO  [Log] Opening App 
+2015-10-14 15:09:11,159 INFO  [Log] Emulator Process started 
+2015-10-14 15:09:14,271 INFO  [Log] Clicking on App element AppMgr_Search_id 
+2015-10-14 15:09:25,273 ERROR [Log] Not able to click on App element--- An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.92 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{appPackage=com.appsmanager, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, appActivity=com.appsmanager.MainActivity, desired={appPackage=com.appsmanager, appActivity=com.appsmanager.MainActivity, platformVersion=4.4.2, browserName=, platformName=Android, deviceName=emulator-5554}, platformVersion=4.4.4, webStorageEnabled=false, locationContextEnabled=false, browserName=, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: 370b73ce-736b-4025-839c-ba3cce231db6 
+2015-10-14 15:09:27,715 INFO  [Log] wait for 500 seconds 
+2015-10-14 15:09:28,394 INFO  [Log] Clicking on App element AppMgr_UnSear_class 
+2015-10-14 15:43:02,287 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2015-10-14 15:43:02,293 INFO  [Log] Opening App 
+2015-10-14 15:43:02,632 INFO  [Log] Quit the App 
+2015-10-14 15:43:02,633 ERROR [Log] Not able to quit the App --- null 
+2015-10-14 15:46:50,622 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2015-10-14 15:46:50,625 INFO  [Log] Opening App 
+2015-10-14 15:47:24,115 INFO  [Log] Emulator Process started 
+2015-10-14 15:47:25,995 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-14 15:47:25,995 INFO  [Log] X 
+2015-10-14 15:47:25,996 INFO  [Log] X 
+2015-10-14 15:47:25,996 INFO  [Log] X 
+2015-10-14 15:47:25,996 INFO  [Log] X 
+2015-10-14 15:47:25,997 INFO  [Log] Quit the App 
+2015-10-14 15:48:31,296 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2015-10-14 15:48:31,314 INFO  [Log] Quit the App 
+2015-10-14 15:48:31,318 ERROR [Log] Not able to quit the App --- null 
+2015-10-14 15:49:03,252 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2015-10-14 15:49:03,255 INFO  [Log] Opening App 
+2015-10-14 15:49:36,441 INFO  [Log] Emulator Process started 
+2015-10-14 15:49:39,898 INFO  [Log] Clicking on App element AppMgr_Search_id 
+2015-10-14 15:49:50,712 ERROR [Log] Not able to click on App element--- An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.75 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{appPackage=com.appsmanager, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, appActivity=com.appsmanager.MainActivity, desired={appPackage=com.appsmanager, appActivity=com.appsmanager.MainActivity, platformVersion=4.4.2, browserName=, platformName=Android, deviceName=emulator-5554}, platformVersion=4.4.4, webStorageEnabled=false, locationContextEnabled=false, browserName=, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: 918eb10a-34d9-4cf0-bc22-23cb03efa787 
+2015-10-14 15:49:52,537 INFO  [Log] wait for 500 seconds 
+2015-10-14 15:49:52,975 INFO  [Log] Clicking on App element AppMgr_UnSear_class 
+2015-10-14 15:58:14,329 ERROR [Log] Not able to click on App element--- An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 501.24 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{appPackage=com.appsmanager, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, appActivity=com.appsmanager.MainActivity, desired={appPackage=com.appsmanager, appActivity=com.appsmanager.MainActivity, platformVersion=4.4.2, browserName=, platformName=Android, deviceName=emulator-5554}, platformVersion=4.4.4, webStorageEnabled=false, locationContextEnabled=false, browserName=, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: 918eb10a-34d9-4cf0-bc22-23cb03efa787 
+2015-10-14 15:58:14,757 INFO  [Log] wait for 60 seconds 
+2015-10-14 15:58:15,247 INFO  [Log] Clicking on App element AppMgr_Select_id 
+2015-10-14 15:59:17,171 ERROR [Log] Not able to click on App element--- An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 61.90 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{appPackage=com.appsmanager, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, appActivity=com.appsmanager.MainActivity, desired={appPackage=com.appsmanager, appActivity=com.appsmanager.MainActivity, platformVersion=4.4.2, browserName=, platformName=Android, deviceName=emulator-5554}, platformVersion=4.4.4, webStorageEnabled=false, locationContextEnabled=false, browserName=, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: 918eb10a-34d9-4cf0-bc22-23cb03efa787 
+2015-10-14 15:59:17,492 INFO  [Log] wait for 60 seconds 
+2015-10-14 15:59:18,655 INFO  [Log] Clicking on App element AppMgr_Bckup_id 
+2015-10-14 15:59:48,328 ERROR [Log] Not able to click on App element--- Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: driver.version: RemoteWebDriver 
+2015-10-14 15:59:48,620 INFO  [Log] wait for 300 seconds 
+2015-10-14 15:59:49,658 ERROR [Log] Not able to wait for the App --- Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: driver.version: RemoteWebDriver 
+2015-10-14 15:59:50,009 INFO  [Log] Clicking on App element AppMgr_CnfrmYes_id 
+2015-10-14 15:59:51,018 ERROR [Log] Not able to click on App element--- Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: driver.version: RemoteWebDriver 
+2015-10-14 15:59:51,303 INFO  [Log] wait for 300 seconds 
+2015-10-14 15:59:52,299 ERROR [Log] Not able to wait for the App --- Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: driver.version: RemoteWebDriver 
+2015-10-14 15:59:52,800 INFO  [Log] Closing the App 
+2015-10-14 15:59:53,808 ERROR [Log] Not able to Close the App --- Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: driver.version: RemoteWebDriver 
+2015-10-14 15:59:54,440 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-14 15:59:54,440 INFO  [Log] X 
+2015-10-14 15:59:54,440 INFO  [Log] X 
+2015-10-14 15:59:54,440 INFO  [Log] X 
+2015-10-14 15:59:54,440 INFO  [Log] X 
+2015-10-14 15:59:54,442 INFO  [Log] Quit the App 
+2015-10-14 16:08:38,472 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2015-10-14 16:08:38,475 INFO  [Log] Opening App 
+2015-10-14 16:08:38,955 INFO  [Log] Quit the App 
+2015-10-14 16:08:38,956 ERROR [Log] Not able to quit the App --- null 
+2015-10-14 16:10:21,543 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2015-10-14 16:10:21,545 INFO  [Log] Opening App 
+2015-10-14 16:10:54,754 INFO  [Log] Emulator Process started 
+2015-10-14 16:10:56,700 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-14 16:10:56,700 INFO  [Log] X 
+2015-10-14 16:10:56,700 INFO  [Log] X 
+2015-10-14 16:10:56,700 INFO  [Log] X 
+2015-10-14 16:10:56,700 INFO  [Log] X 
+2015-10-14 16:10:56,701 INFO  [Log] Quit the App 
+2015-10-14 16:12:54,425 ERROR [Log] Class Utils | Method getRowCount | Exception desc : null 
+2015-10-14 16:12:54,428 INFO  [Log] Quit the App 
+2015-10-14 16:12:54,435 ERROR [Log] Not able to quit the App --- null 
+2015-10-14 16:13:23,145 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2015-10-14 16:13:23,153 INFO  [Log] Opening App 
+2015-10-14 16:13:55,997 INFO  [Log] Emulator Process started 
+2015-10-14 16:13:58,036 INFO  [Log] Clicking on App element AppMgr_Search_id 
+2015-10-14 16:14:08,847 ERROR [Log] Not able to click on App element--- An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.78 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{appPackage=com.appsmanager, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, appActivity=com.appsmanager.MainActivity, desired={appPackage=com.appsmanager, appActivity=com.appsmanager.MainActivity, platformVersion=4.4.2, browserName=, platformName=Android, deviceName=emulator-5554}, platformVersion=4.4.4, webStorageEnabled=false, locationContextEnabled=false, browserName=, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: dec72f9d-dd8f-4d2e-a0a7-8bb48aef1b0d 
+2015-10-14 16:14:09,667 INFO  [Log] wait for 500 seconds 
+2015-10-14 16:14:10,141 INFO  [Log] Clicking on App element AppMgr_UnSear_class 
+2015-10-14 16:22:30,523 ERROR [Log] Not able to click on App element--- An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 500.31 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{appPackage=com.appsmanager, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, appActivity=com.appsmanager.MainActivity, desired={appPackage=com.appsmanager, appActivity=com.appsmanager.MainActivity, platformVersion=4.4.2, browserName=, platformName=Android, deviceName=emulator-5554}, platformVersion=4.4.4, webStorageEnabled=false, locationContextEnabled=false, browserName=, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: dec72f9d-dd8f-4d2e-a0a7-8bb48aef1b0d 
+2015-10-14 16:22:31,922 INFO  [Log] wait for 60 seconds 
+2015-10-14 16:22:32,294 INFO  [Log] Clicking on App element AppMgr_Select_id 
+2015-10-14 16:23:34,073 ERROR [Log] Not able to click on App element--- An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 61.70 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{appPackage=com.appsmanager, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, appActivity=com.appsmanager.MainActivity, desired={appPackage=com.appsmanager, appActivity=com.appsmanager.MainActivity, platformVersion=4.4.2, browserName=, platformName=Android, deviceName=emulator-5554}, platformVersion=4.4.4, webStorageEnabled=false, locationContextEnabled=false, browserName=, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: dec72f9d-dd8f-4d2e-a0a7-8bb48aef1b0d 
+2015-10-14 16:23:34,563 INFO  [Log] wait for 60 seconds 
+2015-10-14 16:23:35,193 INFO  [Log] Clicking on App element AppMgr_Bckup_id 
+2015-10-14 16:24:35,923 ERROR [Log] Not able to click on App element--- An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 60.67 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{appPackage=com.appsmanager, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, appActivity=com.appsmanager.MainActivity, desired={appPackage=com.appsmanager, appActivity=com.appsmanager.MainActivity, platformVersion=4.4.2, browserName=, platformName=Android, deviceName=emulator-5554}, platformVersion=4.4.4, webStorageEnabled=false, locationContextEnabled=false, browserName=, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: dec72f9d-dd8f-4d2e-a0a7-8bb48aef1b0d 
+2015-10-14 16:24:36,379 INFO  [Log] wait for 300 seconds 
+2015-10-14 16:24:36,691 INFO  [Log] Clicking on App element AppMgr_CnfrmYes_id 
+2015-10-14 16:29:08,646 ERROR [Log] Not able to click on App element--- Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: driver.version: RemoteWebDriver 
+2015-10-14 16:29:08,961 INFO  [Log] wait for 300 seconds 
+2015-10-14 16:29:09,957 ERROR [Log] Not able to wait for the App --- Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: driver.version: RemoteWebDriver 
+2015-10-14 16:29:10,334 INFO  [Log] Closing the App 
+2015-10-14 16:29:11,337 ERROR [Log] Not able to Close the App --- Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: driver.version: RemoteWebDriver 
+2015-10-14 16:29:12,027 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-14 16:29:12,028 INFO  [Log] X 
+2015-10-14 16:29:12,028 INFO  [Log] X 
+2015-10-14 16:29:12,028 INFO  [Log] X 
+2015-10-14 16:29:12,028 INFO  [Log] X 
+2015-10-14 16:29:12,029 INFO  [Log] Quit the App 
+2015-10-14 16:57:05,154 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2015-10-14 16:57:05,157 INFO  [Log] Opening App 
+2015-10-14 16:57:38,803 INFO  [Log] Emulator Process started 
+2015-10-14 16:57:40,683 INFO  [Log] Clicking on App element AppMgr_Search_id 
+2015-10-14 16:57:51,313 ERROR [Log] Not able to click on App element--- An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.60 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{appPackage=com.appsmanager, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, appActivity=com.appsmanager.MainActivity, desired={appPackage=com.appsmanager, appActivity=com.appsmanager.MainActivity, platformVersion=4.4.2, browserName=, platformName=Android, deviceName=emulator-5554}, platformVersion=4.4.4, webStorageEnabled=false, locationContextEnabled=false, browserName=, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: 6c9c9b8d-4d8f-4b4f-92ab-8a047eabd4f2 
+2015-10-14 16:57:52,268 INFO  [Log] wait for 500 seconds 
+2015-10-14 16:57:52,723 INFO  [Log] Clicking on App element AppMgr_UnSear_class 
+2015-10-14 17:01:13,111 INFO  [Log] wait for 60 seconds 
+2015-10-14 17:01:13,622 INFO  [Log] Clicking on App element AppMgr_Select_id 
+2015-10-14 17:02:15,230 ERROR [Log] Not able to click on App element--- An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 61.51 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{appPackage=com.appsmanager, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, appActivity=com.appsmanager.MainActivity, desired={appPackage=com.appsmanager, appActivity=com.appsmanager.MainActivity, platformVersion=4.4.2, browserName=, platformName=Android, deviceName=emulator-5554}, platformVersion=4.4.4, webStorageEnabled=false, locationContextEnabled=false, browserName=, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: 6c9c9b8d-4d8f-4b4f-92ab-8a047eabd4f2 
+2015-10-14 17:02:15,585 INFO  [Log] wait for 60 seconds 
+2015-10-14 17:02:16,900 INFO  [Log] Clicking on App element AppMgr_Bckup_id 
+2015-10-14 17:02:24,630 ERROR [Log] Not able to click on App element--- Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: driver.version: RemoteWebDriver 
+2015-10-14 17:02:25,348 INFO  [Log] wait for 300 seconds 
+2015-10-14 17:02:26,351 ERROR [Log] Not able to wait for the App --- Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: driver.version: RemoteWebDriver 
+2015-10-14 17:02:26,690 INFO  [Log] Clicking on App element AppMgr_CnfrmYes_id 
+2015-10-14 17:02:27,693 ERROR [Log] Not able to click on App element--- Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: driver.version: RemoteWebDriver 
+2015-10-14 17:02:27,991 INFO  [Log] wait for 300 seconds 
+2015-10-14 17:02:28,996 ERROR [Log] Not able to wait for the App --- Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: driver.version: RemoteWebDriver 
+2015-10-14 17:02:29,361 INFO  [Log] Closing the App 
+2015-10-14 17:25:40,928 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2015-10-14 17:25:40,931 INFO  [Log] Opening App 
+2015-10-14 17:26:14,879 INFO  [Log] Emulator Process started 
+2015-10-14 17:26:16,958 INFO  [Log] Clicking on App element AppMgr_Search_Xpath 
+2015-10-14 17:26:27,469 ERROR [Log] Not able to click on App element--- An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.50 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{appPackage=com.appsmanager, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, appActivity=com.appsmanager.MainActivity, desired={appPackage=com.appsmanager, appActivity=com.appsmanager.MainActivity, platformVersion=4.4.2, browserName=, platformName=Android, deviceName=emulator-5554}, platformVersion=4.4.4, webStorageEnabled=false, locationContextEnabled=false, browserName=, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: faa90d52-05ca-459b-8f0e-013f53a647f8 
+2015-10-14 17:26:28,332 INFO  [Log] wait for 500 seconds 
+2015-10-14 17:26:28,763 INFO  [Log] Clicking on App element AppMgr_UnSear_Xpath 
+2015-10-14 17:30:24,481 ERROR [Log] Not able to click on App element--- Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: driver.version: RemoteWebDriver 
+2015-10-14 17:30:25,905 INFO  [Log] wait for 60 seconds 
+2015-10-14 17:30:26,968 ERROR [Log] Not able to wait for the App --- Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: driver.version: RemoteWebDriver 
+2015-10-14 17:30:27,314 INFO  [Log] Clicking on App element AppMgr_Select_id 
+2015-10-14 17:30:28,318 ERROR [Log] Not able to click on App element--- Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: driver.version: RemoteWebDriver 
+2015-10-14 17:30:28,672 INFO  [Log] wait for 60 seconds 
+2015-10-14 17:30:29,684 ERROR [Log] Not able to wait for the App --- Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: driver.version: RemoteWebDriver 
+2015-10-14 17:30:30,089 INFO  [Log] Clicking on App element AppMgr_Bckup_id 
+2015-10-14 17:30:31,091 ERROR [Log] Not able to click on App element--- Error communicating with the remote browser. It may have died.
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: driver.version: RemoteWebDriver 
+2015-10-14 17:38:41,645 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2015-10-14 17:38:41,649 INFO  [Log] Opening App 
+2015-10-14 17:39:19,280 INFO  [Log] Emulator Process started 
+2015-10-14 17:39:22,330 INFO  [Log] Clicking on App element AppMgr_Search_id 
+2015-10-14 17:39:34,789 ERROR [Log] Not able to click on App element--- An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 12.39 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{appPackage=com.appsmanager, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, appActivity=com.appsmanager.MainActivity, desired={appPackage=com.appsmanager, appActivity=com.appsmanager.MainActivity, platformVersion=4.4.2, browserName=, platformName=Android, deviceName=emulator-5554}, platformVersion=4.4.4, webStorageEnabled=false, locationContextEnabled=false, browserName=, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: f948e6a9-fa71-4564-8f57-9f8cb828bc24 
+2015-10-14 17:39:36,508 INFO  [Log] Clicking on App element AppMgr_UnSear_class 
+2015-10-14 17:39:49,305 ERROR [Log] Not able to click on App element--- An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 12.79 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{appPackage=com.appsmanager, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, appActivity=com.appsmanager.MainActivity, desired={appPackage=com.appsmanager, appActivity=com.appsmanager.MainActivity, platformVersion=4.4.2, browserName=, platformName=Android, deviceName=emulator-5554}, platformVersion=4.4.4, webStorageEnabled=false, locationContextEnabled=false, browserName=, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: f948e6a9-fa71-4564-8f57-9f8cb828bc24 
+2015-10-14 17:39:49,712 INFO  [Log] Clicking on App element AppMgr_Select_id 
+2015-10-14 17:40:01,681 ERROR [Log] Not able to click on App element--- An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 11.89 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{appPackage=com.appsmanager, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, appActivity=com.appsmanager.MainActivity, desired={appPackage=com.appsmanager, appActivity=com.appsmanager.MainActivity, platformVersion=4.4.2, browserName=, platformName=Android, deviceName=emulator-5554}, platformVersion=4.4.4, webStorageEnabled=false, locationContextEnabled=false, browserName=, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: f948e6a9-fa71-4564-8f57-9f8cb828bc24 
+2015-10-14 17:40:02,105 INFO  [Log] Clicking on App element AppMgr_Bckup_id 
+2015-10-14 17:40:12,300 ERROR [Log] Not able to click on App element--- An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.18 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{appPackage=com.appsmanager, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, appActivity=com.appsmanager.MainActivity, desired={appPackage=com.appsmanager, appActivity=com.appsmanager.MainActivity, platformVersion=4.4.2, browserName=, platformName=Android, deviceName=emulator-5554}, platformVersion=4.4.4, webStorageEnabled=false, locationContextEnabled=false, browserName=, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: f948e6a9-fa71-4564-8f57-9f8cb828bc24 
+2015-10-14 17:40:12,885 INFO  [Log] Clicking on App element AppMgr_CnfrmYes_id 
+2015-10-14 17:40:24,097 ERROR [Log] Not able to click on App element--- An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 11.20 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{appPackage=com.appsmanager, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, appActivity=com.appsmanager.MainActivity, desired={appPackage=com.appsmanager, appActivity=com.appsmanager.MainActivity, platformVersion=4.4.2, browserName=, platformName=Android, deviceName=emulator-5554}, platformVersion=4.4.4, webStorageEnabled=false, locationContextEnabled=false, browserName=, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: f948e6a9-fa71-4564-8f57-9f8cb828bc24 
+2015-10-14 17:40:24,485 INFO  [Log] Closing the App 
+2015-10-14 17:40:33,092 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-14 17:40:33,092 INFO  [Log] X 
+2015-10-14 17:40:33,092 INFO  [Log] X 
+2015-10-14 17:40:33,092 INFO  [Log] X 
+2015-10-14 17:40:33,092 INFO  [Log] X 
+2015-10-14 17:40:33,097 INFO  [Log] Quit the App 
+2015-10-14 17:42:03,812 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2015-10-14 17:42:03,818 INFO  [Log] Opening App 
+2015-10-14 17:42:40,273 INFO  [Log] Emulator Process started 
+2015-10-14 17:42:43,269 INFO  [Log] Clicking on App element AppMgr_Search_id 
+2015-10-14 17:42:54,468 ERROR [Log] Not able to click on App element--- An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 11.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{appPackage=com.appsmanager, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, appActivity=com.appsmanager.MainActivity, desired={appPackage=com.appsmanager, appActivity=com.appsmanager.MainActivity, platformVersion=4.4.2, browserName=, platformName=Android, deviceName=emulator-5554}, platformVersion=4.4.4, webStorageEnabled=false, locationContextEnabled=false, browserName=, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: 63d452bd-6f42-42e2-843c-508b0bd9e85a 
+2015-10-14 17:42:56,754 INFO  [Log] Clicking on App element AppMgr_UnSear_class 
+2015-10-14 17:43:06,815 ERROR [Log] Not able to click on App element--- An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{appPackage=com.appsmanager, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, appActivity=com.appsmanager.MainActivity, desired={appPackage=com.appsmanager, appActivity=com.appsmanager.MainActivity, platformVersion=4.4.2, browserName=, platformName=Android, deviceName=emulator-5554}, platformVersion=4.4.4, webStorageEnabled=false, locationContextEnabled=false, browserName=, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: 63d452bd-6f42-42e2-843c-508b0bd9e85a 
+2015-10-14 17:43:08,095 INFO  [Log] Clicking on App element AppMgr_Select_id 
+2015-10-14 17:43:19,677 ERROR [Log] Not able to click on App element--- An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 11.53 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{appPackage=com.appsmanager, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, appActivity=com.appsmanager.MainActivity, desired={appPackage=com.appsmanager, appActivity=com.appsmanager.MainActivity, platformVersion=4.4.2, browserName=, platformName=Android, deviceName=emulator-5554}, platformVersion=4.4.4, webStorageEnabled=false, locationContextEnabled=false, browserName=, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: 63d452bd-6f42-42e2-843c-508b0bd9e85a 
+2015-10-14 17:43:20,016 INFO  [Log] Clicking on App element AppMgr_Bckup_id 
+2015-10-14 17:43:31,311 ERROR [Log] Not able to click on App element--- An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 11.22 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{appPackage=com.appsmanager, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, appActivity=com.appsmanager.MainActivity, desired={appPackage=com.appsmanager, appActivity=com.appsmanager.MainActivity, platformVersion=4.4.2, browserName=, platformName=Android, deviceName=emulator-5554}, platformVersion=4.4.4, webStorageEnabled=false, locationContextEnabled=false, browserName=, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: 63d452bd-6f42-42e2-843c-508b0bd9e85a 
+2015-10-14 17:43:31,687 INFO  [Log] Clicking on App element AppMgr_CnfrmYes_id 
+2015-10-14 17:43:47,224 ERROR [Log] Not able to click on App element--- An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15.48 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'CIS20', ip: '192.168.1.177', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{appPackage=com.appsmanager, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, appActivity=com.appsmanager.MainActivity, desired={appPackage=com.appsmanager, appActivity=com.appsmanager.MainActivity, platformVersion=4.4.2, browserName=, platformName=Android, deviceName=emulator-5554}, platformVersion=4.4.4, webStorageEnabled=false, locationContextEnabled=false, browserName=, takesScreenshot=true, javascriptEnabled=true, platformName=Android}]
+Session ID: 63d452bd-6f42-42e2-843c-508b0bd9e85a 
+2015-10-14 17:43:47,656 INFO  [Log] Closing the App 
+2015-10-14 17:43:55,567 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-10-14 17:43:55,567 INFO  [Log] X 
+2015-10-14 17:43:55,567 INFO  [Log] X 
+2015-10-14 17:43:55,567 INFO  [Log] X 
+2015-10-14 17:43:55,567 INFO  [Log] X 
+2015-10-14 17:43:55,568 INFO  [Log] Quit the App 
