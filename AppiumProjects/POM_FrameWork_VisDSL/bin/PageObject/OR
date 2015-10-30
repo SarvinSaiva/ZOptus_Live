@@ -1,5 +1,0 @@
-############################# VisDSL Object Repository #################################
-
-##### Tow WorkOrder Page ####
-
-DDN_Jobtype =.//*[@id='ddlJobType']
